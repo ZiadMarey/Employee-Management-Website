@@ -1,0 +1,56 @@
+.body{
+margin: 0;
+}
+
+.page-title{
+font-size: 60px;
+display: inline-block;
+position: relative;
+align-self: center;
+left: 21vw;
+
+}
+
+.add-button-container2, .add-button2{
+    background-color: goldenrod;
+    height: 5vh;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    
+}
+.add-button-container2{
+    width: 11%;
+}
+
+.add-button2{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.update-button{
+    background-color: rgb(0, 96, 79);
+    color: rgb(255, 242, 197);
+    height: 5vh;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    width: 5vw;
+}
+
+.update-button:hover{
+    background-color: goldenrod;
+    color: rgb(0, 96, 79);
+}
+
+.delete-button{
+    background-color: red;
+    color: white;
+    height: 5vh;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    width: 5vw;
+}
+
+.delete-button:hover{
+    background-color: brown;
+    
+}
