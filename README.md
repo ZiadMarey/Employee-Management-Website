@@ -4,7 +4,7 @@ A Website which provides the ability to add, update and delete Employees and Dep
 The Website is developed for the purpose of learning and practicing Java Springboot as a Backend.
 
 ## Project Status
-Planning to add Login and Authentication features in the upcoming days, but other than that, planning to move on to the next project
+Planning to add Login and Authentication features in the upcoming days.
 
 # Technologies Used
 Frontend: React
