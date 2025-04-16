@@ -1,6 +1,6 @@
 # Employee / Department Management Website
 
-A Website which provides the ability to add, update and delete Employees and Departments with an appealing interface and easy to use.
+An Employees and Departments database Website that supports CRUD operations with an appealing interface and easy to use.
 The Website is developed for the purpose of learning and practicing Java Springboot as a Backend.
 
 ## Project Status
